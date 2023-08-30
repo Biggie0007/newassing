@@ -1,0 +1,15 @@
+C:\Users\BIGI\Desktop\9thasspro\bin\Debug\net7.0\9thasspro.exe
+C:\Users\BIGI\Desktop\9thasspro\bin\Debug\net7.0\9thasspro.deps.json
+C:\Users\BIGI\Desktop\9thasspro\bin\Debug\net7.0\9thasspro.runtimeconfig.json
+C:\Users\BIGI\Desktop\9thasspro\bin\Debug\net7.0\9thasspro.dll
+C:\Users\BIGI\Desktop\9thasspro\bin\Debug\net7.0\9thasspro.pdb
+C:\Users\BIGI\Desktop\9thasspro\obj\Debug\net7.0\9thasspro.csproj.AssemblyReference.cache
+C:\Users\BIGI\Desktop\9thasspro\obj\Debug\net7.0\9thasspro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BIGI\Desktop\9thasspro\obj\Debug\net7.0\9thasspro.AssemblyInfoInputs.cache
+C:\Users\BIGI\Desktop\9thasspro\obj\Debug\net7.0\9thasspro.AssemblyInfo.cs
+C:\Users\BIGI\Desktop\9thasspro\obj\Debug\net7.0\9thasspro.csproj.CoreCompileInputs.cache
+C:\Users\BIGI\Desktop\9thasspro\obj\Debug\net7.0\9thasspro.dll
+C:\Users\BIGI\Desktop\9thasspro\obj\Debug\net7.0\refint\9thasspro.dll
+C:\Users\BIGI\Desktop\9thasspro\obj\Debug\net7.0\9thasspro.pdb
+C:\Users\BIGI\Desktop\9thasspro\obj\Debug\net7.0\9thasspro.genruntimeconfig.cache
+C:\Users\BIGI\Desktop\9thasspro\obj\Debug\net7.0\ref\9thasspro.dll
